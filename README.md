@@ -11,3 +11,4 @@ You can read some of my prose on my blog: https://blog.edipretoro.dev/.
 * Cutajar, James. Learn Concurrent Programming with Go. Manning Publication, 2024.
 * James, Chris. Learn Go with Tests. 2023.
 * Goldberg, Josh. Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript. O’Reilly Media, 2022.
+* Kernighan, Brian W., et Rob Pike. The practice of programming. Addison-Wesley, 2010.
